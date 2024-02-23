@@ -9,4 +9,9 @@ Skills:
 Why I decided to take a class on programming:
     I decided to partake in this programming class so as to learn about Mini-apps development. 
 
+My Hobbies: 
+    => Watching Documentaries.
+    => Swimming
+    => Painting
+    => Playing Sudoku
     
