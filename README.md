@@ -26,5 +26,11 @@ Git Commands
 6. git status
 
 
-
+Configure SSH
+-----------------
+ nano ~/.ssh/config
+    Then add: 
+    Host github.com
+    Hostname ssh.github.com
+    Port 443
 
