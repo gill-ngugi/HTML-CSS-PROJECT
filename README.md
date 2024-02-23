@@ -8,11 +8,6 @@ Gitlab URL: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
 
 About Me Section: Find the AboutMe.md file that has my details (About Me).
 
-Link to my repository with multiple projects I've done before: https://gitlab.com/users/gill-ngugi/projects
-    1. View previous React project: https://gitlab.com/gill-ngugi/redux-thunk-axios-json-server-contact-mgt
-    2. Spring Boot Project: https://gitlab.com/gill-ngugi/spring-boot-mongo-db-rest-apis
-    3. VueJS Project: https://gitlab.com/gill-ngugi/vuex-axios-counter-employees-users-components
-
 
 Setup Instructions: 
 1. Clone the project on Gitlab from this link: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
