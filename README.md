@@ -21,13 +21,10 @@ Git Commands
 2. git remote add origin git@github.com:gill-ngugi/HTML-CSS-PROJECT.git 
         git remote set-url origin git@github.com:gill-ngugi/HTML-CSS-PROJECT.git 
 3. git add .
-git commit -m "Message"
-nano ~/.ssh/config
-Then add: 
-Host github.com
- Hostname ssh.github.com
- Port 443
-git push -u origin main 
-git status
+4. git commit -m "Message"
+5. git push -u origin main 
+6. git status
+
+
 
 
