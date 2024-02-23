@@ -1,19 +1,29 @@
-Project Name: HTML-CSS PROJECT : Student Registration Form with HTML and CSS
+Project Name
+----------------
+HTML-CSS PROJECT : Student Registration Form with HTML and CSS
 
-Project Description: This project entails building a Student registration form with HTML, CSS and deploying it to Gitlab.
+Project Description
+----------------------
+This project entails building a Student registration form with HTML, CSS and deploying it to Gitlab.
 
-Author Name: Gillian Ngugi
+Author Name
+----------------
+Gillian Ngugi
 
-Gitlab URL: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
+Gitlab URL
+--------------
+https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
 
-About Me Section: Find the AboutMe.md file that has my details (About Me).
+About Me Section
+---------------------
+Find the AboutMe.md file that has my details (About Me).
 
-Setup Instructions: 
+Setup Instructions
+----------------------
 1. Clone the project on Gitlab from this link: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
 2. Navigate to the folder Week One
 3. Launch the index.html in the browser, for example Google Chrome.
 4. The CSS styles used in the project are in the styles.css file.
-
 
 Git Commands
 -------------
