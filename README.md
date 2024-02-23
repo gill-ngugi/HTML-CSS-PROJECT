@@ -13,7 +13,7 @@ Setup Instructions:
 2. Navigate to the folder Class One
 3. Launch the index.html in the browser, for example Google Chrome.
 4. The CSS styles used in the project are in the styles.css file.
-
+    
 
 Git Commands
 -------------
