@@ -5,33 +5,65 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gillian's Document</title>
-    <link href="./styles.css" rel="stylesheet" type="text/css">
+    <title>About Me Page</title>
+    <link href="./style.css" rel="stylesheet" type="text/css">
 </head>
 
-<body style='background-color: aquamarine'>
-    <h1> Student Registration Form </h1>
-    <form>
-        <div class="container">
-            <label>Student's First Name:</label>
-            <input type="text" placeholder="Enter Firstname" name="firstname" required />
-            <label>Student's Last Name:</label>
-            <input type="text" placeholder="Enter Lastname" name="lastname" required />
-            <label>Student's Username:</label>
-            <input type="text" placeholder="Enter Username" name="username" required />
-            <label>Student's Email:</label>
-            <input type="text" placeholder="Enter Email" name="email" required />
-            <label>Student's Phone Number:</label>
-            <input type="number" placeholder="Enter Contact" name="contact" required />
-            <label>Student's Password:</label>
-            <input type="password" placeholder="Enter Password" name="password" required />
-            <button type="submit">Register</button>
-            <input type="checkbox" checked="checked"> Remember me
-            <button type="button" class="cancelbtn"> Cancel</button>
-            Forgot
-            <a href="#"> password? </a>
+<body>
+    <section class="about-us">
+        <div class="about">
+            <img src="myPic.png" class="pic">
+            <div class="text">
+                <h2>About Me</h2>
+                <h5>Software Engineer & <span>Solutions Architect</span></h5>
+                
+                <span>My Job experience</span>
+                <p>I am a software engineer at Safaricom with 5 years of experience in developing software.</p>
+                <br />
+                <span>Skills</span>
+                <p> I have experience in coding with JavaScript, Java, NodeJS and Frameworks like ReactJS and VueJS.</p>
+                <br />
+                <span>Why I decided to take a class on programming</span>
+                <p> I decided to partake in this programming class so as to learn about Mini-apps development.</p>
+                <br />
+                <span>Projects I've worked on</span>
+                <table id="customers">
+                    <tr>
+                      <th>Description</th>
+                      <th>Link</th>
+                      <th>Languages/Frameworks used</th>
+                    </tr>
+                    <tr>
+                        <td>Real Time Single Page Forum app</td>
+                        <td>https://github.com/gill-ngugi/laravel-vue-real-time-single-page-forum-app</td>
+                        <td>Laravel, VueJS, Pusher, JWT</td>
+                      </tr>
+                    <tr>
+                      <td>Task List Management Project</td>
+                      <td>https://github.com/gill-ngugi/Laravel-Tasks-APIs</td>
+                      <td>Laravel - PHP, Bootstrap</td>
+                    </tr>
+                    <tr>
+                      <td>REST APIs in Laravel and JSON</td>
+                      <td>https://github.com/gill-ngugi/LARAVEL-JSON-APIs-with-views</td>
+                      <td>Laravel - PHP</td>
+                    </tr>
+                </table>
+                <br />
+                <span>Hobbies</span>
+                <ol>
+                    <li>Painting</li>
+                    <li>Watching Documentaries.</li>
+                    <li>Playing Sudoku</li>
+                    <li>Swimming</li>
+                </ol>
+
+                <div class="data">
+                    <a href="#" class="hire">Back to Top</a>
+                </div>
+            </div>
         </div>
-    </form>
+    </section>
 </body>
 
 </html>
