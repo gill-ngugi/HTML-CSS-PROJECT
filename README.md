@@ -10,7 +10,7 @@ Author Name
 ----------------
 Gillian Ngugi
 
-Gitlab URL
+Github URL
 --------------
 https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
 
@@ -20,7 +20,7 @@ Find the AboutMe.md file that has my details (About Me).
 
 Setup Instructions
 ----------------------
-1. Clone the project on Gitlab from this link: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
+1. Clone the project on Github from this link: https://github.com/gill-ngugi/HTML-CSS-PROJECT/tree/master
 2. Navigate to the folder Week One
 3. Launch the index.html in the browser, for example Google Chrome.
 4. The CSS styles used in the project are in the styles.css file.
